@@ -1,0 +1,24 @@
+# folders
+
+bin
+obj
+packages
+.vs
+.vscode
+node_modules
+
+# files
+
+*.user
+*.suo
+*.log
+*.dll
+*.pdb
+*.mdf
+*.ldf
+
+# specific files
+
+project.lock.json
+package-lock.json
+
