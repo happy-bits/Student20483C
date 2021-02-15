@@ -1,0 +1,9 @@
+﻿<Application x:Class="WoodgroveSchool.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">   <!-- OO: det UI som körs när applikationen startar -->
+
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
